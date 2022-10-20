@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izreyes
 - 👀 I’m interested in ... terraforming
-- 🌱 I’m currently learning ... automation
+- 🌱 I’m currently learning ... automation and the organization IT structures.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... izreyes@reyesholdings.com
 
